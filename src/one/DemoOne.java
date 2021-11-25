@@ -7,5 +7,10 @@ public class DemoOne {
 		
 		System.out.println("Random change...");
 	}
+	
+	
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
 }
 
